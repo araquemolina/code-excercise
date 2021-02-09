@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between; 
+    /* moved all divs evenly accross screen */
+    padding: 38px;
+}
+
+.left-side{
+    display: flex;
+}
+/* flex aligned content  */
+
+.nav-wrapper > .left-side > div{
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
+.nav-link-wrapper {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+/* css animation with transition */
+.nav-link-wrapper a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.nav-link-wrapper:hover {
+    border-bottom: 1px solid black;
+
+}
+
+.nav-link-wrapper a:hover {
+    color: black;
+    
+}
+
+/* end of nav styling\ */
+----------------------
+/* portfolio style  */
+
+.portfolio-items-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

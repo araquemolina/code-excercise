@@ -1,0 +1,17 @@
+* {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Poppins;
+  font-size: 45px;
+  color: #000;
+  text-transform: uppercase;
+  padding: 0px 16px;
+}
+
+p {
+  font-family: Open Sans Condensed;
+  font-size: 16;
+  color: #111;
+}
