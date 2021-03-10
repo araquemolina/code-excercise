@@ -112,11 +112,11 @@ nav form .search-data{
   font-weight: 500;
   background: none;
 }
-nav form button{
+nav  button{
   padding: 0 15px;
   color: #fff;
   font-size: 17px;
-  background: #ff3d00;
+  background: #2C3E50;
   border: none;
   border-radius: 2px;
   cursor: pointer;
