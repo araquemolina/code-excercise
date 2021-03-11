@@ -148,9 +148,15 @@ nav .search-icon{
 .firstp{
   font-size: 40px;
   color: rgb(218, 218, 218);
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 100px;
+  margin-left: 60px;
 }
 
 .secondp{
   font-size: 40px;
   color: rgb(218, 218, 218);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  margin-left: 60px;
 }
