@@ -167,6 +167,17 @@ nav .search-icon{
   margin-top: 30px;
 }
 
-.callbuttons button{
-  padding: 40px 100px 40px 100px;
+/* .callbuttons button{
+  background-color: #1e232b;
+} */
+
+.callbuttons .onebutton{
+  padding: 30px 100px 30px 100px;
+  background-color: rgb(97, 201, 97);
+}
+
+.callbuttons .twobutton{
+  padding: 30px 70px 30px 70px;
+  background-color: #1e232b;
+  font-size: 24px;
 }
