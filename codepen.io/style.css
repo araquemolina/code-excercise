@@ -205,11 +205,13 @@ table.blueTable thead {
   border-bottom: 3px solid #444444;
 }
 table.blueTable thead th {
-  font-size: 15px;
+  font-size: 25px;
+  font-weight: 300;
   font-weight: bold;
   color: #FFFFFF;
   text-align: center;
   border-left: 3px solid #4a4a4b;
+  font-family: 'Montserrat', sans-serif;
 }
 table.blueTable thead th:first-child {
   border-left: none;
@@ -218,3 +220,4 @@ table.blueTable thead th:first-child {
 table.blueTable tfoot td {
   font-size: 14px;
 }
+/* need to find a way to make 4 words different font size */
