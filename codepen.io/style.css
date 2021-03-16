@@ -213,4 +213,8 @@ table.blueTable thead th:first-child {
   font-size: 20px;
   letter-spacing: -1px;
 }
+
+.material-icons{
+  color: #424242;
+}
 /* need to find a way to make 4 words different font size */
