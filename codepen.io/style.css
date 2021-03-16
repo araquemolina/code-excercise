@@ -96,15 +96,7 @@ nav .nav-items li a{
 nav .nav-items li a:hover{
   color: #ff3d00;
 }
-nav form{
-  display: flex;
-  height: 40px;
-  padding: 2px;
-  background: #1e232b;
-  min-width: 18%!important;
-  border-radius: 2px;
-  border: 1px solid rgba(155,155,155,0.2);
-}
+
 
 nav  button{
   padding: 10px 30px;
@@ -121,17 +113,7 @@ nav  button{
 nav form button:hover{
   background: #e63600;
 }
-nav .menu-icon,
-nav .cancel-icon,
-nav .search-icon{
-  width: 40px;
-  text-align: center;
-  margin: 0 50px;
-  font-size: 18px;
-  color: #fff;
-  cursor: pointer;
-  display: none;
-}
+
 nav .menu-icon span,
 nav .cancel-icon,
 nav .search-icon{
@@ -252,5 +234,14 @@ img{
 
 .spark p{
   text-align: left;
+}
+
+.explore{
+  color: yellow;
+  position:absolute;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  top: 7px;
+  left: 305px;
 }
 /* need to find a way to make 4 words different font size */
