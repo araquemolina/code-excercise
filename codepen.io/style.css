@@ -234,4 +234,13 @@ table.blueTable thead th:first-child {
   margin: 6px 0 4px 0;
   color: rgb(92, 206, 92);
 }
+
+/* .mainimg{
+  float: right;
+} */
+
+img{
+  float: right;
+}
+
 /* need to find a way to make 4 words different font size */
