@@ -218,4 +218,11 @@ table.blueTable thead th:first-child {
   color: #424242;
 }
 
+.arrowndown{
+  width: 25px;
+  height: 20px;
+  position:absolute;
+  margin: 6px 0 4px 0;
+  color: rgb(92, 206, 92);
+}
 /* need to find a way to make 4 words different font size */
