@@ -243,4 +243,14 @@ img{
   float: right;
 }
 
+.spark{
+  color: #797979;
+  font-weight: 500;
+  font-size: 20px;
+  padding-right: 1300px;
+}
+
+.spark p{
+  text-align: left;
+}
 /* need to find a way to make 4 words different font size */
