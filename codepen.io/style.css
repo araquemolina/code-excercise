@@ -105,10 +105,10 @@ nav form{
 }
 
 nav  button{
-  padding: 15px 15px;
-  margin: 0 10px;
+  padding: 10px 30px;
+  margin: 5px 10px 5px 10px;
   color: #fff;
-  font-size: 17px;
+  font-size: 20px;
   background: #323333;
   border: none;
   border-radius: 2px;
@@ -217,4 +217,5 @@ table.blueTable thead th:first-child {
 .material-icons{
   color: #424242;
 }
+
 /* need to find a way to make 4 words different font size */
