@@ -1,4 +1,4 @@
-*
+
 /* {
     box-sizing: border-box;
 
@@ -70,7 +70,7 @@ nav{
   align-items: center;
   justify-content: space-between;
   height: 70px;
-  padding: 0 100px;
+  padding: 0 0;
 }
 img{
     width: 250px;
@@ -205,8 +205,8 @@ table.blueTable thead {
   border-bottom: 3px solid #444444;
 }
 table.blueTable thead th {
-  font-size: 25px;
-  font-weight: 300;
+  font-size: 24px;
+  font-weight: 500;
   font-weight: bold;
   color: #FFFFFF;
   text-align: center;
@@ -217,7 +217,7 @@ table.blueTable thead th:first-child {
   border-left: none;
 }
 
-table.blueTable tfoot td {
-  font-size: 14px;
+.bidwords{
+  font-weight: 300;
 }
 /* need to find a way to make 4 words different font size */
