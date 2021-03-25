@@ -202,5 +202,6 @@ table.blueTable thead th:first-child {
   color: #fff;
   margin-top: 90px;
   position: absolute;
+  tab-size: 8;
 }
 /* need to find a way to make 4 words different font size */
