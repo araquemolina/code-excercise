@@ -94,7 +94,7 @@ nav .nav-items li a{
   text-decoration: none;
 }
 nav .nav-items li a:hover{
-  color: #ff3d00;
+  color: rgb(97, 201, 97)
 }
 
 
@@ -111,13 +111,7 @@ nav  button{
   font-weight: 700;
 }
 nav form button:hover{
-  background: #e63600;
-}
-
-nav .menu-icon span,
-nav .cancel-icon,
-nav .search-icon{
-  display: none;
+  background: rgb(97, 201, 97)
 }
 
 .firstp{
@@ -147,7 +141,7 @@ nav .search-icon{
 } */
 
 .callbuttons .onebutton{
-  padding: 40px 30px 40px 30px;
+  padding: 40px 10px 40px 10px;
   background-color: rgb(97, 201, 97);
   border: 0;
   font-weight: 700;
@@ -210,20 +204,20 @@ table.blueTable thead th:first-child {
 }
 
 .arrowndown{
-  width: 25px;
-  height: 20px;
+  width: 60px;
+  height: 25px;
   position:absolute;
   margin: 6px 0 4px 0;
   color: rgb(92, 206, 92);
+    padding-left: 0px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-top: 0px;
 }
 
 /* .mainimg{
   float: right;
 } */
-
-img{
-  float: right;
-}
 
 .spark{
   color: #797979;
@@ -246,4 +240,20 @@ img{
   font-size: 16px;
   font-weight: bold;
 }
+
+/* .flexbox-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  -ms-flex-direction: column;
+}
+
+.flexbox-item{
+  width: 500px;
+}
+
+.flexbox-item-3{
+flex-grow: 3;
+} */
 /* need to find a way to make 4 words different font size */
