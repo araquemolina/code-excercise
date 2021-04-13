@@ -1,22 +1,27 @@
-ol{
-    background-color: #0f0f0f;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    overflow: hidden;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(39, 39, 39);
 }
 
-li{
-    
-    
-    float: right;
-    
+li {
+  float: right;
 }
 
-li a{
-    display: block;
+li a {
+  display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+h2{
+    float: left;
+    margin: 0;
+    color: chartreuse;
+    padding-top: 10px;
+    padding-left: 10px;
 }
